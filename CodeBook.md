@@ -9,10 +9,16 @@ Subj: Is the subject that take the experiment, there are 30 men
 # Main Data Bases
 
 Datas Train: It is of the subjects that make a trains
+
 Datas Test: It is of the subjects that make a test
+
 TotalMeanStd: Is the first data filtered by Means and standard desviation
+
 MeanDB: This Data is the means by subject and activity
+
 Total: is the big Data Base with all information with the 561 variables and all activities of subjects
+
+MeanDB.txt - Is the same MeanDB.csv but in text format
 
 # Process
 
